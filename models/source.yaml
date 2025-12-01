@@ -1,0 +1,7 @@
+sources:
+  - name: LANDING_SOURCE
+    database: LANDING
+    schema: SQL_SERVER_TEST_SALES
+    tables:
+      - name: SALES
+      - name: SALESORDERHEADER
